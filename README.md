@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/data/SLINK.svg" width="120" alt="SLink">
+<img src="app/data/slink.svg" width="120" alt="SLink">
 
 # SLink
 
