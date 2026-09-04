@@ -62,6 +62,7 @@ src = [
     'src/util/sdl.c',
     'src/util/strbuf.c',
     'src/util/str.c',
+    'src/util/thread.c',
     'src/util/term.c',
     'src/util/timeout.c',
     'src/util/tick.c',
@@ -300,3 +301,5 @@ if meson.version().version_compare('>= 0.58.0')
        devenv.set('SLINK_ICON_DIR', meson.current_source_dir() / 'data')
        meson.add_devenv(devenv)
 endif
+
+
