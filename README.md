@@ -653,3 +653,72 @@ See [LICENSE](LICENSE) for the complete license terms.
 🐛 [Report an issue](https://github.com/slickyindia/SLink/issues)
 
 </div>
+
+---
+
+## SLink Studio - Windows GUI
+
+**SLink Studio** is the professional Windows desktop GUI built on SLink technology.
+
+It provides an easy-to-use interface for Android screen mirroring and device control while continuing to use the SLink engine underneath.
+
+### Windows GUI Download
+
+**SLink Studio for Windows**
+
+[Download SLink Studio Installer](release/SLink-Setup.exe)
+
+### Screenshots
+
+![SLink Studio Windows GUI](release/assets/screenshot.png)
+
+### Current Features
+
+- Android device detection
+- USB-connected Android device support
+- Android screen mirroring
+- Mouse control
+- Keyboard control
+- Hardware-button controls
+- Integrated SLink engine
+- Windows desktop GUI
+- Professional device management interface
+
+### Roadmap
+
+SLink Studio is actively being improved to provide a more complete Windows desktop experience for SLink.
+
+Planned and future improvements may include:
+
+- Additional SLink CLI functionality
+- Additional Android device controls
+- Screenshot functionality
+- Screen recording
+- Advanced video settings
+- Performance controls
+- Multi-device management
+- Advanced device configuration
+- Automation features
+- Improved Windows integration
+
+The goal is to make commonly used SLink functionality available directly from the desktop application while retaining the SLink CLI for power users and advanced workflows.
+
+> **SLink CLI for power users. SLink Studio for everyone.**
+
+## Support SLink Development
+
+SLink Studio is actively being improved to provide a complete Windows desktop experience for SLink.
+
+The current GUI provides Android screen mirroring, mouse control, keyboard control and hardware-button controls.
+
+We are working toward bringing more SLink CLI capabilities directly into the desktop application.
+
+If you find SLink useful and would like to support its development, your donation helps us spend more time improving SLink Studio and integrating additional CLI functionality.
+
+### Support the Project
+
+![Support SLink Development](release/assets/QR.png)
+
+Your support is appreciated and helps us continue development, testing, documentation and improvements to the SLink ecosystem.
+
+---
