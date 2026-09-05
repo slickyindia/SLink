@@ -18,7 +18,7 @@ SLink lets you view and control your Android device directly from your computer 
 <a href="https://github.com/slickyindia/SLink/discussions">💬 Discussions</a>
 </p>
 
-![Version](https://img.shields.io/badge/version-4.1-7c3aed?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-2.0-7c3aed?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-Portable-2563eb?style=for-the-badge&logo=windows)
 ![Android](https://img.shields.io/badge/Android-5.0%2B-16a34a?style=for-the-badge&logo=android)
 ![License](https://img.shields.io/badge/license-Apache%202.0-f59e0b?style=for-the-badge)
@@ -150,7 +150,7 @@ Go to:
 For Windows, download:
 
 ```text
-SLink-4.1-windows-portable.zip
+SLink-2.0-windows-portable.zip
 ```
 
 ---
@@ -579,7 +579,7 @@ Platform-specific guides:
 
 # 📦 Latest Release
 
-### SLink 4.1
+### SLink 2.0
 
 Download the latest release:
 
